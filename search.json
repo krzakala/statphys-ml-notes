@@ -1,0 +1,76 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Statistical Physics Perspective on Machine Learning",
+    "section": "",
+    "text": "0.1 How to interact\nThis website hosts draft chapters based on lecture notes by Florent Krzakala, Bruno Loureiro, Lenka Zdeborová, Antoine Maillard on machine learning.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>A Statistical Physics Perspective on Machine Learning</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-interact",
+    "href": "index.html#how-to-interact",
+    "title": "A Statistical Physics Perspective on Machine Learning",
+    "section": "",
+    "text": "Questions / comments: use GitHub Discussions.\nTypos / concrete fixes: open a GitHub Issue (or submit a PR).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>A Statistical Physics Perspective on Machine Learning</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#status",
+    "href": "index.html#status",
+    "title": "A Statistical Physics Perspective on Machine Learning",
+    "section": "0.2 Status",
+    "text": "0.2 Status\nChapters are evolving drafts. We will tag periodic releases so citations remain stable.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>A Statistical Physics Perspective on Machine Learning</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-intro.html",
+    "href": "chapters/01-intro.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "2.1 Scope\nWrite here what this book covers, who it is for, and how it is organized.",
+    "crumbs": [
+      "Chapters",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-intro.html#tiny-math-check",
+    "href": "chapters/01-intro.html#tiny-math-check",
+    "title": "2  Introduction",
+    "section": "2.2 Tiny math check",
+    "text": "2.2 Tiny math check\n\\[\n\\hat{\\theta} = \\arg\\min_{\\theta}\\,\\mathcal{L}(\\theta).\n\\]",
+    "crumbs": [
+      "Chapters",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "open-problems/index.html",
+    "href": "open-problems/index.html",
+    "title": "3  Open Problems",
+    "section": "",
+    "text": "Curated open questions, conjectures, and exercises.\nEach problem will link to a GitHub Discussion thread for community input.\n\nOP-001 — Example open problem",
+    "crumbs": [
+      "Open Problems",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Open Problems</span>"
+    ]
+  },
+  {
+    "objectID": "open-problems/OP-001.html",
+    "href": "open-problems/OP-001.html",
+    "title": "4  OP-001 — Example open problem",
+    "section": "",
+    "text": "Discussion thread: (link coming soon)\n\n4.0.1 Problem\nReplace this with a crisp statement.\n\n\n4.0.2 Context\nWhy it matters, references, related results.\n\n\n4.0.3 What we tried\n\nItem 1\nItem 2",
+    "crumbs": [
+      "Open Problems",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>OP-001 — Example open problem</span>"
+    ]
+  }
+]
