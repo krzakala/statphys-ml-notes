@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "A Statistical Physics Perspective on Machine Learning"
+  subtitle: "Draft chapters & lecture notes"
+  author:
+    - "Florent Krzakala"
+    - "Bruno Loureiro"
+    - "Lenka Zdeborová"
+    - "Antoine Maillard"
+
+  # TODO: replace YOUR_GITHUB_USERNAME and REPO_NAME once you confirm them
+  site-url: "https://YOUR_GITHUB_USERNAME.github.io/REPO_NAME"
+  repo-url: "https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME"
+  repo-actions: [edit, issue]
+
+  chapters:
+    - index.qmd
+    - part: "Chapters"
+      chapters:
+        - chapters/01-intro.qmd
+    - part: "Open Problems"
+      chapters:
+        - open-problems/index.qmd
+        - open-problems/OP-001.qmd
+
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+bibliography: references.bib
