@@ -1,0 +1,8 @@
+title: "A Statistical Physics Perspective on Machine Learning"
+description: "Draft chapters and lecture notes by Florent Krzakala, Bruno Loureiro, Lenka Zdeborová, Antoine Maillard"
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+plugins:
+  - jekyll-feed
