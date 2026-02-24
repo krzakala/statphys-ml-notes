@@ -31,7 +31,5 @@ format:
     toc: true
     number-sections: true
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
 
 bibliography: references.bib
