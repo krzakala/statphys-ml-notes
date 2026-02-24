@@ -12,8 +12,8 @@ book:
     - "Antoine Maillard"
 
   # TODO: replace YOUR_GITHUB_USERNAME and REPO_NAME once you confirm them
-  site-url: "https://YOUR_GITHUB_USERNAME.github.io/REPO_NAME"
-  repo-url: "https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME"
+  site-url: "https://krzakala.github.io/statphys-ml-notes"
+  repo-url: "https://github.com/krzakala/statphys-ml-notes"
   repo-actions: [edit, issue]
 
   chapters:
