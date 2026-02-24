@@ -1,8 +1,0 @@
----
-title: "Open Problems"
----
-
-Curated open questions, conjectures, and exercises.  
-Each problem will link to a GitHub Discussion thread for community input.
-
-- [OP-001 — Example open problem](OP-001.qmd)
