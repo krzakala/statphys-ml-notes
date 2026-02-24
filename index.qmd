@@ -2,7 +2,7 @@
 title: "A Statistical Physics Perspective on Machine Learning"
 ---
 
-This website hosts draft chapters based on lecture notes by **Florent Krzakala, Bruno Loureiro, Lenka Zdeborová, Antoine Maillard**.
+This website hosts draft chapters based on lecture notes by **Florent Krzakala, Bruno Loureiro, Lenka Zdeborová, Antoine Maillard** on machine learning.
 
 ## How to interact
 - **Questions / comments:** use **GitHub Discussions**.
