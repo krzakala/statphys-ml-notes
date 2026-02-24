@@ -8,8 +8,8 @@ book:
   author:
     - "Florent Krzakala"
     - "Bruno Loureiro"
-    - "Lenka Zdeborová"
     - "Antoine Maillard"
+    - "Lenka Zdeborová"
 
   # TODO: replace YOUR_GITHUB_USERNAME and REPO_NAME once you confirm them
   site-url: "https://krzakala.github.io/statphys-ml-notes"
