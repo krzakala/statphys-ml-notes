@@ -1,0 +1,19 @@
+---
+title: "Introduction"
+---
+
+::: {.callout-note}
+**Feedback welcome**
+- Ask a question / comment: (link coming soon)
+- Report a typo: (link coming soon)
+:::
+
+## Scope
+
+Write here what this book covers, who it is for, and how it is organized.
+
+## Tiny math check
+
+$$
+\hat{\theta} = \arg\min_{\theta}\,\mathcal{L}(\theta).
+$$
