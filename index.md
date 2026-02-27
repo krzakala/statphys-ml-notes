@@ -1,15 +1,23 @@
 ---
-layout: home
-title: A Statistical Physics Perspective on Machine Learning
+layout: default
 ---
 
-This site hosts draft chapters based on lecture notes by  
-**Florent Krzakala, Bruno Loureiro, Lenka Zdeborová, Antoine Maillard**.
+<h1>A Statistical Physics Perspective on Machine Learning</h1>
 
----
+<p>
+Draft chapters and lecture notes by  
+<strong>Florent Krzakala, Bruno Loureiro,  Antoine Maillard and Lenka Zdeborová</strong>.
+</p>
 
-## Chapters
+<hr>
 
-Posts below are chapters in progress.
+<h2>Chapters</h2>
 
-Questions and comments are welcome.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small> — {{ post.date | date: "%B %d, %Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
